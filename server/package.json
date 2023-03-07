@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^18.7.20"
+  },
+  "dependencies": {
+    "@trpc/server": "^10.14.0"
+  }
+}
